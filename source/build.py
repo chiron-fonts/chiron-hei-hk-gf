@@ -57,7 +57,7 @@ def build(designspace, filename, tableDir):
     dest = "../fonts/variable/" + filename
     font.save(dest)
 
-    subprocess.run(["sfntedit", "-a", "cmap={0}/.tb_cmap,GDEF={0}/.tb_GDEF,GPOS={0}/.tb_GPOS,GSUB={0}/.tb_GSUB,DSIG={0}/.tb_DSIG,name={0}/.tb_name,OS/2={0}/.tb_OS2,hhea={0}/.tb_hhea,post={0}/.tb_post,STAT={0}/.tb_STAT,fvar={0}/.tb_fvar".format(tableDir), dest])
+    subprocess.run(["sfntedit", "-a", "cmap={0}/.tb_cmap,GDEF={0}/.tb_GDEF,GPOS={0}/.tb_GPOS,GSUB={0}/.tb_GSUB,name={0}/.tb_name,OS/2={0}/.tb_OS2,hhea={0}/.tb_hhea,post={0}/.tb_post,STAT={0}/.tb_STAT,fvar={0}/.tb_fvar".format(tableDir), dest])
 
 build("ChironHeiHK.designspace", "ChironHeiHK-[wght].ttf", "tables")
 build("ChironHeiHK-Italic.designspace", "ChironHeiHK-Italic-[wght].ttf", "tables-italic")
