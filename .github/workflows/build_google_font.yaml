@@ -1,0 +1,51 @@
+name: Build artifact for Google Font
+
+on:
+  push: ~
+  release:
+    types: [published]
+
+env:
+  GF_RELEASE_DIR: /tmp/build_gf
+  GF_ASSET_FILENAME: ChironHeiHK-GoogleFonts.zip
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+      - run: pip install -r scripts/requirements.txt
+      - name: Build font
+        run: bin/build_google_font.sh $GF_RELEASE_DIR
+      - uses: actions/upload-artifact@v4
+        with:
+          name: gf-built-fonts
+          path: ${{ env.GF_RELEASE_DIR }}
+
+  release:
+    if: github.event_name == 'release'
+    needs:
+      - build
+    runs-on: ubuntu-latest
+    steps:
+      #- uses: actions/checkout@v2
+      - name: Download files
+        uses: actions/download-artifact@v4
+        with:
+          name: gf-built-fonts
+          path: ${{ env.GF_RELEASE_DIR }}
+      - name: Zip files
+        run: zip -r $GF_ASSET_FILENAME $GF_RELEASE_DIR
+      - name: Upload binaries to release
+        uses: svenstaro/upload-release-action@v2
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          file: ${{ env.GF_ASSET_FILENAME }}
+          asset_name: ${{ env.GF_ASSET_FILENAME }}
+          tag: ${{ github.ref }}
+          overwrite: true
+          body: "Google Font variant built from commit ${{ github.sha }}."
