@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cid02161" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="32E8"/>
+  <outline>
+    <contour>
+      <point x="972" y="379" type="curve"/>
+      <point x="972" y="380" type="line"/>
+      <point x="1020" y="634"/>
+      <point x="853" y="840"/>
+      <point x="599" y="840" type="curve" smooth="yes"/>
+      <point x="345" y="840"/>
+      <point x="100" y="634"/>
+      <point x="52" y="380" type="curve" smooth="yes"/>
+      <point x="4" y="126"/>
+      <point x="171" y="-80"/>
+      <point x="425" y="-80" type="curve" smooth="yes"/>
+      <point x="679" y="-80"/>
+      <point x="924" y="126"/>
+    </contour>
+    <contour>
+      <point x="593" y="814" type="curve" smooth="yes"/>
+      <point x="594" y="814" type="line" smooth="yes"/>
+      <point x="834" y="814"/>
+      <point x="991" y="620"/>
+      <point x="946" y="380" type="curve" smooth="yes"/>
+      <point x="900" y="140"/>
+      <point x="670" y="-54"/>
+      <point x="430" y="-54" type="curve" smooth="yes"/>
+      <point x="190" y="-54"/>
+      <point x="32" y="140"/>
+      <point x="78" y="380" type="curve" smooth="yes"/>
+      <point x="123" y="620"/>
+      <point x="354" y="814"/>
+    </contour>
+    <contour>
+      <point x="735" y="613" type="curve"/>
+      <point x="705" y="621" type="line"/>
+      <point x="667" y="525"/>
+      <point x="608" y="435"/>
+      <point x="534" y="358" type="curve" smooth="yes"/>
+      <point x="457" y="278"/>
+      <point x="343" y="203"/>
+      <point x="241" y="170" type="curve"/>
+      <point x="259" y="145" type="line"/>
+      <point x="350" y="182"/>
+      <point x="473" y="259"/>
+      <point x="551" y="341" type="curve" smooth="yes"/>
+      <point x="626" y="419"/>
+      <point x="681" y="508"/>
+      <point x="711" y="568" type="curve"/>
+      <point x="718" y="580"/>
+      <point x="730" y="602"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>
