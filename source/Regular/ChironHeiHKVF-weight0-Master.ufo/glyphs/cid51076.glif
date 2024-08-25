@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cid51076" format="2">
+  <advance height="1000" width="920"/>
+  <unicode hex="B989"/>
+  <outline>
+    <contour>
+      <point x="58" y="342" type="line"/>
+      <point x="58" y="312" type="line"/>
+      <point x="859" y="312" type="line"/>
+      <point x="859" y="342" type="line"/>
+    </contour>
+    <contour>
+      <point x="163" y="783" type="line"/>
+      <point x="163" y="753" type="line"/>
+      <point x="718" y="753" type="line"/>
+      <point x="718" y="628" type="line"/>
+      <point x="166" y="628" type="line"/>
+      <point x="166" y="458" type="line"/>
+      <point x="198" y="458" type="line"/>
+      <point x="198" y="600" type="line"/>
+      <point x="750" y="600" type="line"/>
+      <point x="750" y="783" type="line"/>
+    </contour>
+    <contour>
+      <point x="166" y="473" type="line"/>
+      <point x="166" y="443" type="line"/>
+      <point x="771" y="443" type="line"/>
+      <point x="771" y="473" type="line"/>
+    </contour>
+    <contour>
+      <point x="458" y="221" type="curve" smooth="yes"/>
+      <point x="268" y="221"/>
+      <point x="158" y="171"/>
+      <point x="158" y="78" type="curve" smooth="yes"/>
+      <point x="158" y="-14"/>
+      <point x="268" y="-64"/>
+      <point x="458" y="-64" type="curve" smooth="yes"/>
+      <point x="648" y="-64"/>
+      <point x="758" y="-14"/>
+      <point x="758" y="78" type="curve" smooth="yes"/>
+      <point x="758" y="171"/>
+      <point x="648" y="221"/>
+    </contour>
+    <contour>
+      <point x="458" y="193" type="curve" smooth="yes"/>
+      <point x="619" y="193"/>
+      <point x="725" y="149"/>
+      <point x="725" y="78" type="curve" smooth="yes"/>
+      <point x="725" y="8"/>
+      <point x="619" y="-36"/>
+      <point x="458" y="-36" type="curve" smooth="yes"/>
+      <point x="297" y="-36"/>
+      <point x="191" y="8"/>
+      <point x="191" y="78" type="curve" smooth="yes"/>
+      <point x="191" y="149"/>
+      <point x="297" y="193"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

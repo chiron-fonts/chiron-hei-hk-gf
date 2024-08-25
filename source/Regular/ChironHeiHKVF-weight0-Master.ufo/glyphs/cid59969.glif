@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cid59969" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="21BC1"/>
+  <outline>
+    <contour>
+      <point x="59" y="588" type="line"/>
+      <point x="59" y="559" type="line"/>
+      <point x="942" y="559" type="line"/>
+      <point x="942" y="588" type="line"/>
+    </contour>
+    <contour>
+      <point x="552" y="452" type="line"/>
+      <point x="552" y="12" type="line" smooth="yes"/>
+      <point x="552" y="-49"/>
+      <point x="574" y="-62"/>
+      <point x="650" y="-62" type="curve" smooth="yes"/>
+      <point x="668" y="-62"/>
+      <point x="830" y="-62"/>
+      <point x="849" y="-62" type="curve" smooth="yes"/>
+      <point x="933" y="-62"/>
+      <point x="945" y="-16"/>
+      <point x="952" y="159" type="curve"/>
+      <point x="942" y="162"/>
+      <point x="931" y="167"/>
+      <point x="922" y="174" type="curve"/>
+      <point x="917" y="-1"/>
+      <point x="908" y="-32"/>
+      <point x="850" y="-32" type="curve" smooth="yes"/>
+      <point x="814" y="-32"/>
+      <point x="673" y="-32"/>
+      <point x="648" y="-32" type="curve" smooth="yes"/>
+      <point x="593" y="-32"/>
+      <point x="581" y="-24"/>
+      <point x="581" y="11" type="curve" smooth="yes"/>
+      <point x="581" y="452" type="line"/>
+    </contour>
+    <contour>
+      <point x="457" y="825" type="line"/>
+      <point x="456" y="522"/>
+      <point x="457" y="114"/>
+      <point x="49" y="-48" type="curve"/>
+      <point x="56" y="-54"/>
+      <point x="67" y="-64"/>
+      <point x="72" y="-70" type="curve"/>
+      <point x="483" y="99"/>
+      <point x="483" y="511"/>
+      <point x="485" y="825" type="curve"/>
+    </contour>
+    <contour>
+      <point x="479" y="453" type="line"/>
+      <point x="479" y="424" type="line"/>
+      <point x="581" y="424" type="line"/>
+      <point x="581" y="453" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

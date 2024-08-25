@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cid00609" format="2">
+  <advance height="1000" width="920"/>
+  <unicode hex="11ED"/>
+  <outline>
+    <contour>
+      <point x="603" y="220" type="line"/>
+      <point x="603" y="100" type="line"/>
+      <point x="698" y="100" type="line"/>
+      <point x="698" y="-90" type="line"/>
+      <point x="830" y="-90" type="line"/>
+      <point x="830" y="220" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="196" type="curve" smooth="yes"/>
+      <point x="157" y="196"/>
+      <point x="103" y="138"/>
+      <point x="103" y="49" type="curve" smooth="yes"/>
+      <point x="103" y="-41"/>
+      <point x="157" y="-98"/>
+      <point x="227" y="-98" type="curve" smooth="yes"/>
+      <point x="296" y="-98"/>
+      <point x="350" y="-41"/>
+      <point x="350" y="49" type="curve" smooth="yes"/>
+      <point x="350" y="138"/>
+      <point x="296" y="196"/>
+    </contour>
+    <contour>
+      <point x="227" y="97" type="curve" smooth="yes"/>
+      <point x="234" y="97"/>
+      <point x="242" y="83"/>
+      <point x="242" y="49" type="curve" smooth="yes"/>
+      <point x="242" y="14"/>
+      <point x="234" y="2"/>
+      <point x="227" y="2" type="curve" smooth="yes"/>
+      <point x="220" y="2"/>
+      <point x="211" y="14"/>
+      <point x="211" y="49" type="curve" smooth="yes"/>
+      <point x="211" y="83"/>
+      <point x="220" y="97"/>
+    </contour>
+    <contour>
+      <point x="360" y="220" type="line"/>
+      <point x="360" y="100" type="line"/>
+      <point x="455" y="100" type="line"/>
+      <point x="455" y="-90" type="line"/>
+      <point x="587" y="-90" type="line"/>
+      <point x="587" y="220" type="line"/>
+    </contour>
+    <contour>
+      <point x="177" y="233" type="line"/>
+      <point x="177" y="160" type="line"/>
+      <point x="273" y="160" type="line"/>
+      <point x="273" y="233" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>
