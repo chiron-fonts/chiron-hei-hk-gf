@@ -1,3 +1,9 @@
+v2.516 (2024/09/03)
+====
+- Modify the full-width characters １ (U+FF11), Ｉ (U+FF29), ｇ (U+FF47) to match the half-width LGC style.
+- Adjust the shapes of the components ⻍ and 廴 in frequently used characters. This involves 160 glyphs.
+- Glyph corrections: 䂀 (U+4080), 咦 (U+54A6), 姨 (U+59E8), 悌 (U+608C), 睇 (U+7747), 粥 (U+7CA5), 羲 (U+7FB2), 胰 (U+80F0), 諡 (U+8AE1).
+  
 v2.515 (2024/08/24)
 ====
 - Updated LGC fonts to Source Sans v3.052.
