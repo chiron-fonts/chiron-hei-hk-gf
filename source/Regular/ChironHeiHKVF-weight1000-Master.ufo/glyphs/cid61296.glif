@@ -4,6 +4,89 @@
   <unicode hex="289DE"/>
   <outline>
     <contour>
+      <point x="364" y="396" type="curve"/>
+      <point x="378" y="398"/>
+      <point x="404" y="398"/>
+      <point x="425" y="398" type="curve"/>
+      <point x="425" y="398"/>
+      <point x="504" y="398"/>
+      <point x="504" y="398" type="curve"/>
+      <point x="504" y="398"/>
+      <point x="504" y="521"/>
+      <point x="504" y="521" type="curve"/>
+      <point x="504" y="521"/>
+      <point x="408" y="521"/>
+      <point x="408" y="521" type="curve"/>
+      <point x="408" y="521"/>
+      <point x="364" y="486"/>
+      <point x="364" y="486" type="curve"/>
+      <point x="364" y="486"/>
+      <point x="364" y="396"/>
+    </contour>
+    <contour>
+      <point x="364" y="396" type="curve"/>
+      <point x="364" y="424"/>
+      <point x="457" y="461"/>
+      <point x="457" y="461" type="curve"/>
+      <point x="492" y="538"/>
+      <point x="547" y="707"/>
+      <point x="576" y="790" type="curve"/>
+      <point x="576" y="790"/>
+      <point x="492" y="820"/>
+      <point x="492" y="820" type="curve"/>
+      <point x="492" y="820"/>
+      <point x="458" y="813"/>
+      <point x="458" y="813" type="curve"/>
+      <point x="458" y="813"/>
+      <point x="458" y="809"/>
+      <point x="458" y="809" type="curve"/>
+      <point x="435" y="734"/>
+      <point x="373" y="569"/>
+      <point x="358" y="533" type="curve" smooth="yes"/>
+      <point x="349" y="513"/>
+      <point x="345" y="505"/>
+      <point x="337" y="489" type="curve"/>
+      <point x="337" y="489"/>
+      <point x="364" y="396"/>
+    </contour>
+    <contour>
+      <point x="353" y="814" type="curve"/>
+      <point x="353" y="814"/>
+      <point x="353" y="682"/>
+      <point x="353" y="682" type="curve"/>
+      <point x="353" y="682"/>
+      <point x="493" y="682"/>
+      <point x="493" y="682" type="curve"/>
+      <point x="493" y="682"/>
+      <point x="493" y="814"/>
+      <point x="493" y="814" type="curve"/>
+      <point x="493" y="814"/>
+      <point x="353" y="814"/>
+    </contour>
+    <contour>
+      <point x="464" y="521" type="curve"/>
+      <point x="464" y="521"/>
+      <point x="464" y="502"/>
+      <point x="464" y="502" type="curve"/>
+      <point x="456" y="249"/>
+      <point x="410" y="66"/>
+      <point x="297" y="-6" type="curve"/>
+      <point x="319" y="-29"/>
+      <point x="345" y="-72"/>
+      <point x="360" y="-103" type="curve"/>
+      <point x="506" y="2"/>
+      <point x="562" y="187"/>
+      <point x="573" y="517" type="curve"/>
+      <point x="573" y="517"/>
+      <point x="503" y="522"/>
+      <point x="503" y="522" type="curve"/>
+      <point x="503" y="522"/>
+      <point x="484" y="521"/>
+      <point x="484" y="521" type="curve"/>
+      <point x="484" y="521"/>
+      <point x="464" y="521"/>
+    </contour>
+    <contour>
       <point x="78" y="602" type="curve"/>
       <point x="78" y="602"/>
       <point x="78" y="489"/>
@@ -228,57 +311,6 @@
       <point x="578" y="141"/>
     </contour>
     <contour>
-      <point x="345" y="813" type="curve"/>
-      <point x="345" y="813"/>
-      <point x="345" y="680"/>
-      <point x="345" y="680" type="curve"/>
-      <point x="345" y="680"/>
-      <point x="503" y="680"/>
-      <point x="503" y="680" type="curve"/>
-      <point x="503" y="680"/>
-      <point x="503" y="813"/>
-      <point x="503" y="813" type="curve"/>
-      <point x="503" y="813"/>
-      <point x="345" y="813"/>
-    </contour>
-    <contour>
-      <point x="389" y="514" type="curve"/>
-      <point x="389" y="514"/>
-      <point x="389" y="399"/>
-      <point x="389" y="399" type="curve"/>
-      <point x="389" y="399"/>
-      <point x="503" y="399"/>
-      <point x="503" y="399" type="curve"/>
-      <point x="503" y="399"/>
-      <point x="503" y="514"/>
-      <point x="503" y="514" type="curve"/>
-      <point x="503" y="514"/>
-      <point x="389" y="514"/>
-    </contour>
-    <contour>
-      <point x="463" y="514" type="curve"/>
-      <point x="463" y="514"/>
-      <point x="463" y="495"/>
-      <point x="463" y="495" type="curve"/>
-      <point x="453" y="261"/>
-      <point x="407" y="81"/>
-      <point x="304" y="7" type="curve"/>
-      <point x="326" y="-16"/>
-      <point x="354" y="-63"/>
-      <point x="368" y="-94" type="curve"/>
-      <point x="498" y="12"/>
-      <point x="552" y="199"/>
-      <point x="565" y="507" type="curve"/>
-      <point x="565" y="507"/>
-      <point x="501" y="516"/>
-      <point x="501" y="516" type="curve"/>
-      <point x="501" y="516"/>
-      <point x="482" y="514"/>
-      <point x="482" y="514" type="curve"/>
-      <point x="482" y="514"/>
-      <point x="463" y="514"/>
-    </contour>
-    <contour>
       <point x="427" y="350" type="curve"/>
       <point x="427" y="350"/>
       <point x="341" y="319"/>
@@ -300,35 +332,6 @@
       <point x="755" y="52" type="curve" smooth="yes"/>
       <point x="601" y="52"/>
       <point x="482" y="94"/>
-    </contour>
-    <contour>
-      <point x="372" y="367" type="curve"/>
-      <point x="372" y="389"/>
-      <point x="452" y="425"/>
-      <point x="452" y="425" type="curve"/>
-      <point x="452" y="425"/>
-      <point x="452" y="427"/>
-      <point x="452" y="427" type="curve"/>
-      <point x="498" y="517"/>
-      <point x="548" y="648"/>
-      <point x="580" y="775" type="curve"/>
-      <point x="580" y="775"/>
-      <point x="509" y="821"/>
-      <point x="509" y="821" type="curve"/>
-      <point x="509" y="821"/>
-      <point x="470" y="805"/>
-      <point x="470" y="805" type="curve"/>
-      <point x="470" y="805"/>
-      <point x="470" y="800"/>
-      <point x="470" y="800" type="curve"/>
-      <point x="448" y="685"/>
-      <point x="401" y="560"/>
-      <point x="385" y="527" type="curve" smooth="yes"/>
-      <point x="370" y="493"/>
-      <point x="338" y="459"/>
-      <point x="318" y="453" type="curve"/>
-      <point x="334" y="432"/>
-      <point x="363" y="389"/>
     </contour>
   </outline>
   <lib>
