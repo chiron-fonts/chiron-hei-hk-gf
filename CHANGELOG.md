@@ -1,8 +1,14 @@
+v2.518 (2024/10/05)
+====
+- Glyph fixes: 遙 (U+9059), 䢛 (U+489B).
+- Glyph adjustments: 總 (U+7E3D).
+- Other minor glyph adjustments.
+
 v2.517 (2024/09/21)
 ====
 - The most significant change in this release is the design revision of the ⻍ and 廴 components in 693 characters, 396 of which are in the Big5/HKSCS character set.
 - Several glyph adjustments, including 羅 (U+7F85), 鑼 (U+947C) and 騙 (U+9A19).
-  
+
 v2.516 (2024/09/03)
 ====
 - Modify the full-width characters １ (U+FF11), Ｉ (U+FF29), ｇ (U+FF47) to match the half-width LGC style.
