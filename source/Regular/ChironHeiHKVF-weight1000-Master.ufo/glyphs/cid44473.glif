@@ -1,22 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cid44473" format="2">
-  <advance height="1000" width="311"/>
+  <advance height="1000" width="243"/>
   <outline>
     <contour>
-      <point x="137" y="-115" type="line"/>
-      <point x="202" y="-14"/>
-      <point x="241" y="74"/>
-      <point x="241" y="210" type="curve" smooth="yes"/>
-      <point x="241" y="347"/>
-      <point x="202" y="435"/>
-      <point x="137" y="536" type="curve"/>
-      <point x="40" y="496" type="line"/>
-      <point x="88" y="405"/>
-      <point x="114" y="312"/>
-      <point x="114" y="210" type="curve" smooth="yes"/>
-      <point x="114" y="109"/>
-      <point x="88" y="16"/>
-      <point x="40" y="-77" type="curve"/>
+      <point x="122" y="-20" type="curve" smooth="yes"/>
+      <point x="165" y="-20"/>
+      <point x="198" y="13"/>
+      <point x="198" y="56" type="curve" smooth="yes"/>
+      <point x="198" y="100"/>
+      <point x="165" y="135"/>
+      <point x="122" y="135" type="curve" smooth="yes"/>
+      <point x="78" y="135"/>
+      <point x="45" y="100"/>
+      <point x="45" y="56" type="curve" smooth="yes"/>
+      <point x="45" y="13"/>
+      <point x="78" y="-20"/>
     </contour>
   </outline>
   <lib>

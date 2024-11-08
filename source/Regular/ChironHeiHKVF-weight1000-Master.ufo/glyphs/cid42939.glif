@@ -120,27 +120,23 @@
       <point x="220" y="816" type="line"/>
     </contour>
     <contour>
-      <point x="292" y="184" type="line"/>
-      <point x="310" y="193"/>
-      <point x="340" y="200"/>
-      <point x="517" y="219" type="curve"/>
-      <point x="512" y="236"/>
-      <point x="507" y="265"/>
-      <point x="505" y="286" type="curve"/>
-      <point x="327" y="271" type="line"/>
-      <point x="290" y="247" type="line"/>
+      <point x="292" y="188.5" type="line"/>
+      <point x="310" y="192.0"/>
+      <point x="340" y="195.5"/>
+      <point x="517" y="214.5" type="curve"/>
+      <point x="505" y="281.5" type="line"/>
+      <point x="327" y="266.5" type="line"/>
+      <point x="290" y="242.5" type="line"/>
     </contour>
     <contour>
-      <point x="295" y="459" type="line"/>
-      <point x="295" y="342" type="line" smooth="yes"/>
-      <point x="295" y="309"/>
-      <point x="280" y="306"/>
-      <point x="262" y="301" type="curve"/>
-      <point x="278" y="271"/>
-      <point x="290" y="211"/>
-      <point x="292" y="184" type="curve"/>
-      <point x="399" y="244" type="line"/>
-      <point x="399" y="459" type="line"/>
+      <point x="295" y="459.0" type="line"/>
+      <point x="295" y="342.0" type="line" smooth="yes"/>
+      <point x="295" y="309.0"/>
+      <point x="280" y="306.0"/>
+      <point x="262" y="301.0" type="curve"/>
+      <point x="292" y="188.5" type="line"/>
+      <point x="399" y="239.5" type="line"/>
+      <point x="399" y="459.0" type="line"/>
     </contour>
   </outline>
   <lib>

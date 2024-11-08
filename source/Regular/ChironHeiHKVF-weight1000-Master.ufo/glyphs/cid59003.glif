@@ -4,44 +4,20 @@
   <unicode hex="FE3E"/>
   <outline>
     <contour>
-      <point x="945" y="677" type="curve"/>
-      <point x="945" y="677"/>
-      <point x="500" y="502"/>
-      <point x="500" y="502" type="curve"/>
-      <point x="500" y="502"/>
-      <point x="55" y="677"/>
-      <point x="55" y="677" type="curve"/>
-      <point x="55" y="677"/>
-      <point x="25" y="577"/>
-      <point x="25" y="577" type="curve"/>
-      <point x="25" y="577"/>
-      <point x="500" y="392"/>
-      <point x="500" y="392" type="curve"/>
-      <point x="500" y="392"/>
-      <point x="975" y="577"/>
-      <point x="975" y="577" type="curve"/>
-      <point x="975" y="577"/>
-      <point x="945" y="677"/>
+      <point x="945" y="677" type="line"/>
+      <point x="500" y="502" type="line"/>
+      <point x="55" y="677" type="line"/>
+      <point x="25" y="577" type="line"/>
+      <point x="500" y="392" type="line"/>
+      <point x="975" y="577" type="line"/>
     </contour>
     <contour>
-      <point x="945" y="858" type="curve"/>
-      <point x="945" y="858"/>
-      <point x="500" y="683"/>
-      <point x="500" y="683" type="curve"/>
-      <point x="500" y="683"/>
-      <point x="55" y="858"/>
-      <point x="55" y="858" type="curve"/>
-      <point x="55" y="858"/>
-      <point x="25" y="758"/>
-      <point x="25" y="758" type="curve"/>
-      <point x="25" y="758"/>
-      <point x="500" y="573"/>
-      <point x="500" y="573" type="curve"/>
-      <point x="500" y="573"/>
-      <point x="975" y="758"/>
-      <point x="975" y="758" type="curve"/>
-      <point x="975" y="758"/>
-      <point x="945" y="858"/>
+      <point x="945" y="858" type="line"/>
+      <point x="500" y="683" type="line"/>
+      <point x="55" y="858" type="line"/>
+      <point x="25" y="758" type="line"/>
+      <point x="500" y="573" type="line"/>
+      <point x="975" y="758" type="line"/>
     </contour>
   </outline>
   <lib>

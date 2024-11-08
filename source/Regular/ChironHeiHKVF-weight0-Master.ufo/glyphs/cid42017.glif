@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cid42017" format="2">
   <advance height="1000" width="536"/>
-  <unicode hex="1FE1"/>
+  <unicode hex="1FE2"/>
   <outline>
     <contour>
       <point x="262" y="-24" type="curve" smooth="yes"/>
@@ -38,10 +38,39 @@
       <point x="164" y="-24"/>
     </contour>
     <contour>
-      <point x="120" y="652" type="line"/>
-      <point x="382" y="652" type="line"/>
-      <point x="382" y="682" type="line"/>
-      <point x="120" y="682" type="line"/>
+      <point x="144" y="647" type="curve" smooth="yes"/>
+      <point x="164" y="647"/>
+      <point x="177" y="660"/>
+      <point x="177" y="680" type="curve" smooth="yes"/>
+      <point x="177" y="700"/>
+      <point x="164" y="713"/>
+      <point x="144" y="713" type="curve" smooth="yes"/>
+      <point x="124" y="713"/>
+      <point x="111" y="700"/>
+      <point x="111" y="680" type="curve" smooth="yes"/>
+      <point x="111" y="660"/>
+      <point x="124" y="647"/>
+    </contour>
+    <contour>
+      <point x="358" y="647" type="curve" smooth="yes"/>
+      <point x="377" y="647"/>
+      <point x="390" y="660"/>
+      <point x="390" y="680" type="curve" smooth="yes"/>
+      <point x="390" y="700"/>
+      <point x="377" y="713"/>
+      <point x="358" y="713" type="curve" smooth="yes"/>
+      <point x="338" y="713"/>
+      <point x="325" y="700"/>
+      <point x="325" y="680" type="curve" smooth="yes"/>
+      <point x="325" y="660"/>
+      <point x="338" y="647"/>
+    </contour>
+    <contour>
+      <point x="257" y="599" type="line"/>
+      <point x="283" y="599" type="line"/>
+      <point x="235" y="785" type="line"/>
+      <point x="198" y="785" type="line"/>
+      <point x="196" y="780" type="line"/>
     </contour>
   </outline>
   <lib>

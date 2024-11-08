@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cid42030" format="2">
   <advance height="1000" width="855"/>
-  <unicode hex="1F7D"/>
+  <unicode hex="1F62"/>
   <outline>
     <contour>
       <point x="241" y="-25" type="curve" smooth="yes"/>
@@ -52,11 +52,27 @@
       <point x="119" y="-25"/>
     </contour>
     <contour>
-      <point x="324" y="633" type="line"/>
-      <point x="463" y="633" type="line"/>
-      <point x="654" y="825" type="line"/>
-      <point x="643" y="844" type="line"/>
-      <point x="452" y="844" type="line"/>
+      <point x="262" y="626" type="line"/>
+      <point x="330" y="635"/>
+      <point x="416" y="674"/>
+      <point x="416" y="762" type="curve" smooth="yes"/>
+      <point x="416" y="842"/>
+      <point x="346" y="890"/>
+      <point x="216" y="894" type="curve"/>
+      <point x="207" y="794" type="line"/>
+      <point x="263" y="789"/>
+      <point x="285" y="769"/>
+      <point x="285" y="743" type="curve" smooth="yes"/>
+      <point x="285" y="717"/>
+      <point x="271" y="704"/>
+      <point x="249" y="698" type="curve"/>
+    </contour>
+    <contour>
+      <point x="514" y="634" type="line"/>
+      <point x="610" y="634" type="line"/>
+      <point x="586" y="881" type="line"/>
+      <point x="436" y="881" type="line"/>
+      <point x="426" y="861" type="line"/>
     </contour>
   </outline>
   <lib>

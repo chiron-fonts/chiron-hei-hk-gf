@@ -120,7 +120,7 @@
       <point x="962" y="554" type="curve"/>
     </contour>
     <contour>
-      <point x="87" y="364" type="curve"/>
+      <point x="87" y="372" type="line"/>
       <point x="87" y="383"/>
       <point x="149" y="412"/>
       <point x="149" y="412" type="curve"/>
@@ -135,19 +135,15 @@
       <point x="83" y="476"/>
       <point x="66" y="467"/>
       <point x="50" y="464" type="curve"/>
-      <point x="63" y="435"/>
-      <point x="81" y="386"/>
     </contour>
     <contour>
-      <point x="87" y="364" type="line"/>
-      <point x="118" y="376"/>
-      <point x="163" y="381"/>
-      <point x="464" y="410" type="curve"/>
-      <point x="458" y="430"/>
-      <point x="450" y="467"/>
-      <point x="446" y="493" type="curve"/>
-      <point x="136" y="470" type="line"/>
-      <point x="84" y="439" type="line"/>
+      <point x="87" y="372" type="line"/>
+      <point x="118" y="376.5"/>
+      <point x="163" y="381.0"/>
+      <point x="464" y="410.0" type="curve"/>
+      <point x="446" y="493.0" type="line"/>
+      <point x="136" y="470.0" type="line"/>
+      <point x="84" y="439.0" type="line"/>
     </contour>
   </outline>
   <lib>

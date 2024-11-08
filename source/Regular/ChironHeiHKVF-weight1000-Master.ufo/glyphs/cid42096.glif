@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cid42096" format="2">
   <advance height="1000" width="855"/>
-  <unicode hex="1FA1"/>
+  <unicode hex="1FF2"/>
   <outline>
     <contour>
       <point x="241" y="-25" type="curve" smooth="yes"/>
@@ -72,20 +72,11 @@
       <point x="389" y="-260"/>
     </contour>
     <contour>
-      <point x="477" y="626" type="curve"/>
-      <point x="490" y="698" type="line"/>
-      <point x="464" y="702"/>
-      <point x="443" y="712"/>
-      <point x="443" y="734" type="curve" smooth="yes"/>
-      <point x="443" y="761"/>
-      <point x="467" y="777"/>
-      <point x="532" y="781" type="curve"/>
-      <point x="521" y="882" type="line"/>
-      <point x="363" y="877"/>
-      <point x="311" y="831"/>
-      <point x="311" y="751" type="curve" smooth="yes"/>
-      <point x="311" y="672"/>
-      <point x="388" y="631"/>
+      <point x="386" y="633" type="line"/>
+      <point x="525" y="633" type="line"/>
+      <point x="398" y="844" type="line"/>
+      <point x="207" y="844" type="line"/>
+      <point x="195" y="825" type="line"/>
     </contour>
   </outline>
   <lib>

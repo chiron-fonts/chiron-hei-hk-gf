@@ -4,44 +4,20 @@
   <unicode hex="FE3D"/>
   <outline>
     <contour>
-      <point x="50" y="68" type="curve"/>
-      <point x="50" y="68"/>
-      <point x="500" y="309"/>
-      <point x="500" y="309" type="curve"/>
-      <point x="500" y="309"/>
-      <point x="950" y="68"/>
-      <point x="950" y="68" type="curve"/>
-      <point x="950" y="68"/>
-      <point x="960" y="93"/>
-      <point x="960" y="93" type="curve"/>
-      <point x="960" y="93"/>
-      <point x="500" y="339"/>
-      <point x="500" y="339" type="curve"/>
-      <point x="500" y="339"/>
-      <point x="40" y="93"/>
-      <point x="40" y="93" type="curve"/>
-      <point x="40" y="93"/>
-      <point x="50" y="68"/>
+      <point x="50" y="68" type="line"/>
+      <point x="500" y="309" type="line"/>
+      <point x="950" y="68" type="line"/>
+      <point x="960" y="93" type="line"/>
+      <point x="500" y="339" type="line"/>
+      <point x="40" y="93" type="line"/>
     </contour>
     <contour>
-      <point x="50" y="-75" type="curve"/>
-      <point x="50" y="-75"/>
-      <point x="500" y="166"/>
-      <point x="500" y="166" type="curve"/>
-      <point x="500" y="166"/>
-      <point x="950" y="-75"/>
-      <point x="950" y="-75" type="curve"/>
-      <point x="950" y="-75"/>
-      <point x="960" y="-50"/>
-      <point x="960" y="-50" type="curve"/>
-      <point x="960" y="-50"/>
-      <point x="500" y="196"/>
-      <point x="500" y="196" type="curve"/>
-      <point x="500" y="196"/>
-      <point x="40" y="-50"/>
-      <point x="40" y="-50" type="curve"/>
-      <point x="40" y="-50"/>
-      <point x="50" y="-75"/>
+      <point x="50" y="-75" type="line"/>
+      <point x="500" y="166" type="line"/>
+      <point x="950" y="-75" type="line"/>
+      <point x="960" y="-50" type="line"/>
+      <point x="500" y="196" type="line"/>
+      <point x="40" y="-50" type="line"/>
     </contour>
   </outline>
   <lib>

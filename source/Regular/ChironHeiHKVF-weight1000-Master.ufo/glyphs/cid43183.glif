@@ -1,15 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cid43183" format="2">
   <advance height="1000" width="400"/>
-  <unicode hex="25BE"/>
+  <unicode hex="25BF"/>
   <outline>
     <contour>
-      <point x="198" y="90" type="line"/>
-      <point x="202" y="90" type="line"/>
-      <point x="393" y="440" type="line"/>
-      <point x="393" y="444" type="line"/>
-      <point x="7" y="444" type="line"/>
-      <point x="7" y="440" type="line"/>
+      <point x="198" y="47" type="line"/>
+      <point x="202" y="47" type="line"/>
+      <point x="432" y="461" type="line"/>
+      <point x="432" y="466" type="line"/>
+      <point x="-32" y="466" type="line"/>
+      <point x="-32" y="461" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="213" type="line"/>
+      <point x="116" y="380" type="line"/>
+      <point x="284" y="380" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,17 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cid45276" format="2">
   <advance height="1000"/>
-  <unicode hex="033A"/>
+  <unicode hex="033B"/>
   <outline>
     <contour>
       <point x="-126" y="-266" type="line"/>
       <point x="126" y="-266" type="line"/>
-      <point x="126" y="-109" type="line"/>
-      <point x="98" y="-109" type="line"/>
-      <point x="98" y="-236" type="line"/>
+      <point x="126" y="-105" type="line"/>
+      <point x="-126" y="-105" type="line"/>
+    </contour>
+    <contour>
       <point x="-98" y="-236" type="line"/>
-      <point x="-98" y="-109" type="line"/>
-      <point x="-126" y="-109" type="line"/>
+      <point x="-98" y="-135" type="line"/>
+      <point x="98" y="-135" type="line"/>
+      <point x="98" y="-236" type="line"/>
     </contour>
   </outline>
   <lib>

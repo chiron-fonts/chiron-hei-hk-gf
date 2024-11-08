@@ -1,30 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cid42456" format="2">
-  <advance height="1000" width="697"/>
-  <unicode hex="04A3"/>
+  <advance height="1000" width="663"/>
+  <unicode hex="04C8"/>
   <outline>
     <contour>
-      <point x="511" y="-205" type="line"/>
-      <point x="669" y="-205" type="line"/>
-      <point x="686" y="10" type="line"/>
-      <point x="686" y="131" type="line"/>
-      <point x="478" y="131" type="line"/>
-      <point x="478" y="-11" type="line"/>
-      <point x="511" y="-11" type="line"/>
-    </contour>
-    <contour>
-      <point x="71" y="-11" type="line"/>
-      <point x="254" y="-11" type="line"/>
-      <point x="254" y="195" type="line"/>
-      <point x="414" y="195" type="line"/>
-      <point x="414" y="-11" type="line"/>
-      <point x="597" y="-11" type="line"/>
-      <point x="597" y="552" type="line"/>
-      <point x="414" y="552" type="line"/>
-      <point x="414" y="355" type="line"/>
-      <point x="254" y="355" type="line"/>
-      <point x="254" y="552" type="line"/>
-      <point x="71" y="552" type="line"/>
+      <point x="384" y="-219" type="curve" smooth="yes"/>
+      <point x="546" y="-219"/>
+      <point x="594" y="-109"/>
+      <point x="594" y="15" type="curve" smooth="yes"/>
+      <point x="594" y="552" type="line"/>
+      <point x="411" y="552" type="line"/>
+      <point x="411" y="355" type="line"/>
+      <point x="252" y="355" type="line"/>
+      <point x="252" y="552" type="line"/>
+      <point x="69" y="552" type="line"/>
+      <point x="69" y="-11" type="line"/>
+      <point x="252" y="-11" type="line"/>
+      <point x="252" y="195" type="line"/>
+      <point x="411" y="195" type="line"/>
+      <point x="411" y="10" type="line" smooth="yes"/>
+      <point x="411" y="-52"/>
+      <point x="397" y="-77"/>
+      <point x="355" y="-77" type="curve" smooth="yes"/>
+      <point x="341" y="-77"/>
+      <point x="329" y="-74"/>
+      <point x="313" y="-70" type="curve"/>
+      <point x="281" y="-204" type="line"/>
+      <point x="305" y="-212"/>
+      <point x="334" y="-219"/>
     </contour>
   </outline>
   <lib>
