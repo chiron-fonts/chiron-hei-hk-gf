@@ -92,15 +92,13 @@
       <point x="720" y="476" type="curve"/>
     </contour>
     <contour>
-      <point x="576" y="359" type="line"/>
+      <point x="576" y="361" type="line"/>
       <point x="587" y="365"/>
-      <point x="610" y="370"/>
-      <point x="735" y="389" type="curve"/>
-      <point x="736" y="395"/>
-      <point x="736" y="407"/>
-      <point x="737" y="415" type="curve"/>
-      <point x="604" y="397" type="line"/>
-      <point x="581" y="385" type="line"/>
+      <point x="610" y="368"/>
+      <point x="734" y="387" type="curve"/>
+      <point x="737" y="413" type="line"/>
+      <point x="604" y="395" type="line"/>
+      <point x="580" y="383" type="line"/>
     </contour>
     <contour>
       <point x="44" y="312" type="curve"/>
@@ -175,15 +173,13 @@
       <point x="478" y="91" type="curve"/>
     </contour>
     <contour>
-      <point x="365" y="-23" type="line"/>
+      <point x="365" y="-22" type="line"/>
       <point x="375" y="-16"/>
-      <point x="395" y="-9"/>
-      <point x="478" y="19" type="curve"/>
-      <point x="477" y="24"/>
-      <point x="475" y="35"/>
-      <point x="475" y="42" type="curve"/>
-      <point x="391" y="20" type="line"/>
-      <point x="370" y="4" type="line"/>
+      <point x="395" y="-10"/>
+      <point x="477" y="18" type="curve"/>
+      <point x="475" y="41" type="line"/>
+      <point x="391" y="19" type="line"/>
+      <point x="370" y="3" type="line"/>
     </contour>
     <contour>
       <point x="503" y="250" type="line"/>
@@ -232,15 +228,13 @@
       <point x="780" y="80" type="curve"/>
     </contour>
     <contour>
-      <point x="667" y="-33" type="line"/>
+      <point x="667" y="-31" type="line"/>
       <point x="677" y="-25"/>
-      <point x="698" y="-18"/>
-      <point x="780" y="9" type="curve"/>
-      <point x="779" y="14"/>
-      <point x="777" y="26"/>
-      <point x="777" y="33" type="curve"/>
-      <point x="693" y="10" type="line"/>
-      <point x="672" y="-6" type="line"/>
+      <point x="697" y="-19"/>
+      <point x="779" y="8" type="curve"/>
+      <point x="777" y="32" type="line"/>
+      <point x="693" y="9" type="line"/>
+      <point x="672" y="-7" type="line"/>
     </contour>
     <contour>
       <point x="872" y="306" type="curve"/>
@@ -255,46 +249,34 @@
       <point x="856" y="170"/>
     </contour>
     <contour>
-      <point x="365" y="-23" type="curve"/>
-      <point x="367" y="-10"/>
-      <point x="402" y="6"/>
-      <point x="402" y="6" type="curve"/>
+      <point x="365" y="-22" type="line"/>
+      <point x="402" y="5" type="line"/>
       <point x="456" y="292" type="line"/>
       <point x="426" y="292" type="line"/>
       <point x="381" y="52" type="line" smooth="yes"/>
       <point x="374" y="18"/>
       <point x="365" y="12"/>
       <point x="357" y="9" type="curve"/>
-      <point x="360" y="0"/>
-      <point x="364" y="-15"/>
     </contour>
     <contour>
-      <point x="667" y="-33" type="curve"/>
-      <point x="669" y="-19"/>
-      <point x="704" y="-4"/>
-      <point x="704" y="-4" type="curve"/>
+      <point x="667" y="-31" type="line"/>
+      <point x="704" y="-5" type="line"/>
       <point x="761" y="294" type="line"/>
       <point x="731" y="294" type="line"/>
       <point x="683" y="42" type="line" smooth="yes"/>
       <point x="677" y="8"/>
       <point x="666" y="2"/>
       <point x="659" y="-1" type="curve"/>
-      <point x="661" y="-10"/>
-      <point x="666" y="-24"/>
     </contour>
     <contour>
-      <point x="576" y="359" type="curve"/>
-      <point x="578" y="373"/>
-      <point x="612" y="388"/>
-      <point x="612" y="388" type="curve"/>
+      <point x="576" y="361" type="line"/>
+      <point x="612" y="386" type="line"/>
       <point x="647" y="572" type="line"/>
       <point x="618" y="572" type="line"/>
       <point x="592" y="434" type="line" smooth="yes"/>
       <point x="586" y="400"/>
       <point x="575" y="394"/>
       <point x="567" y="391" type="curve"/>
-      <point x="570" y="382"/>
-      <point x="576" y="368"/>
     </contour>
   </outline>
   <lib>
