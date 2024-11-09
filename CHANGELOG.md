@@ -1,3 +1,9 @@
+v2.519 (2024/11/09)
+====
+- Glyph addition: `鿽` (U+9FFD)。
+- Minor adjustment to the style of the certain turning stroke forms.
+- Fixed a number of stroke misalignment issues in the font.
+
 v2.518 (2024/10/05)
 ====
 - Glyph fixes: 遙 (U+9059), 䢛 (U+489B).
