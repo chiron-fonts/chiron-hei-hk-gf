@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cid09587" format="2">
   <advance height="1000" width="1000"/>
-  <unicode hex="20545"/>
+  <unicode hex="20542"/>
   <outline>
     <contour>
       <point x="82" y="733" type="curve"/>
@@ -16,6 +16,20 @@
       <point x="82" y="762" type="curve"/>
       <point x="82" y="762"/>
       <point x="82" y="733"/>
+    </contour>
+    <contour>
+      <point x="757" y="381" type="curve"/>
+      <point x="757" y="381"/>
+      <point x="757" y="410"/>
+      <point x="757" y="410" type="curve"/>
+      <point x="757" y="410"/>
+      <point x="241" y="410"/>
+      <point x="241" y="410" type="curve"/>
+      <point x="241" y="410"/>
+      <point x="241" y="381"/>
+      <point x="241" y="381" type="curve"/>
+      <point x="241" y="381"/>
+      <point x="757" y="381"/>
     </contour>
     <contour>
       <point x="797" y="213" type="curve"/>
@@ -92,20 +106,6 @@
       <point x="826" y="213" type="curve"/>
       <point x="826" y="213"/>
       <point x="826" y="602"/>
-    </contour>
-    <contour>
-      <point x="944" y="381" type="curve"/>
-      <point x="944" y="381"/>
-      <point x="944" y="410"/>
-      <point x="944" y="410" type="curve"/>
-      <point x="944" y="410"/>
-      <point x="61" y="410"/>
-      <point x="61" y="410" type="curve"/>
-      <point x="61" y="410"/>
-      <point x="61" y="381"/>
-      <point x="61" y="381" type="curve"/>
-      <point x="61" y="381"/>
-      <point x="944" y="381"/>
     </contour>
   </outline>
   <lib>
