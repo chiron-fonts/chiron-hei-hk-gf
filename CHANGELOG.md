@@ -1,3 +1,7 @@
+v2.520 (2024/12/08)
+====
+- Continue fixing stroke misalignment issues in the font.
+
 v2.519 (2024/11/09)
 ====
 - Glyph addition: `鿽` (U+9FFD)。
